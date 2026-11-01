@@ -1,0 +1,27 @@
+# Local/private material must never be published.
+.private-backup/
+.local-verification/
+11.ino
+*.original.ino
+*.bak
+*.tmp
+*.log
+*.elf
+*.hex
+*.bin
+*.o
+*.a
+build/
+.pio/
+.arduinoIDE/
+.vscode/
+.idea/
+.env
+.env.*
+!.env.example
+credentials*
+secrets*
+Thumbs.db
+Desktop.ini
+.DS_Store
+~$*
