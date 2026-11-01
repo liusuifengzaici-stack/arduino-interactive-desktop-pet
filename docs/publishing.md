@@ -1,10 +1,12 @@
-# Publishing the Prepared Repository
+# Publication Record
 
-The local repository contains the initial commit `Initial commit: DesktopPet V14.1 Arduino project`. Publish this directory only; the parent directory contains the original private sketch, backup and machine-specific verification output.
+Published on **2026-11-01**: [arduino-interactive-desktop-pet](https://github.com/liusuifengzaici-stack/arduino-interactive-desktop-pet), with **public** visibility authorized by the project owner. The initial commit is `926857a` — `Initial commit: DesktopPet V14.1 Arduino project`.
 
-The project owner has approved public publication. No license has been chosen or added.
+Only the reviewed project directory was uploaded. The original private sketch, backup and machine-specific verification output remain outside the repository. No license has been chosen or added. Public visibility does not give visitors direct write access to this repository.
 
-## If a remote repository has not yet been created
+## Reference: publication procedure
+
+The repository above has already been created and the initial commit pushed. The following procedure is retained as a reference for preparing a separate repository; do not recreate or overwrite the published one.
 
 1. Sign into the intended GitHub account and check whether `arduino-interactive-desktop-pet` already exists. If it does, stop and inspect it; do not overwrite it or force-push.
 2. Create an empty repository named `arduino-interactive-desktop-pet`. Public visibility is authorized by the owner. Do not initialize it with a README, `.gitignore` or license, because the prepared local repository already has its initial commit.

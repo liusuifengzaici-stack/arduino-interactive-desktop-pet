@@ -181,4 +181,4 @@ assets/README.md           Authentic-media placeholders
 .gitignore                Local/private and generated-file exclusions
 ```
 
-No license has been selected or added. The project owner has approved public publication. See [Publishing](docs/publishing.md) if the remote repository still needs to be created.
+Published repository: [arduino-interactive-desktop-pet](https://github.com/liusuifengzaici-stack/arduino-interactive-desktop-pet). No license has been selected or added. See [Publication record](docs/publishing.md) for publication and local-file handling notes.
